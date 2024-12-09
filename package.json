@@ -1,0 +1,12 @@
+{
+  "name": "awesome-blog",
+  "version": "1.0.0",
+  "description": "a simple blogging website",
+  "main": "index.js",
+  "scripts": {
+    
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
